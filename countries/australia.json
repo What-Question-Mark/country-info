@@ -43,6 +43,6 @@
         "ID":"WA",
         "Major":{"Name":"Perth","Coordinates":{"Longitude":"115.8613° E","Latitude":"31.9523° S"}},
         "Minor1":{"Name":"Bunbury","Coordinates":{"Longitude":"115.6409° E","Latitude":"33.3270° S"}},
-        "Minor2":{"Name":"Geraldton","Coordinates":{"Longitude":"114.6113° E","Latitude":"28.7761° S114.6113° E"}}
+        "Minor2":{"Name":"Geraldton","Coordinates":{"Longitude":"114.6113° E","Latitude":"28.7761° S"}}
     }
 }
