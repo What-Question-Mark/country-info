@@ -1,0 +1,48 @@
+{
+    "AustralianCapitalTerritory":{
+        "ID":"ACT",
+        "Major":{"Name":"Canberra","Coordinates":{"Longitude":"149.1310° E","Latitude":"35.2802° S"}}
+    },
+    "NewSouthWales":{
+        "ID":"NSW",
+        "Major":{"Name":"Sydney","Coordinates":{"Longitude":"151.2093° E","Latitude":"33.8688° S"}},
+        "Minor1":{"Name":"Newcastle","Coordinates":{"Longitude":"151.7817° E","Latitude":"32.9283° S"}},
+        "Minor2":{"Name":"Ballina","Coordinates":{"Longitude":"153.5658° E","Latitude":"28.8628° S"}}
+    },
+    "NorthernTerritory":{
+        "ID":"NT",
+        "Major":{"Name":"Darwin","Coordinates":{"Longitude":"130.8444° E","Latitude":"12.4637° S"}},
+        "Minor1":{"Name":"Palmerston","Coordinates":{"Longitude":"130.9845° E","Latitude":"12.4794° S"}},
+        "Minor2":{"Name":"AliceSprings","Coordinates":{"Longitude":"133.8807° E","Latitude":"23.6980° S"}}
+    },
+    "Queensland":{
+        "ID":"QLD",
+        "Major":{"Name":"Brisbane","Coordinates":{"Longitude":"153.0260° E","Latitude":"27.4705° S"}},
+        "Minor1":{"Name":"GoldCoast","Coordinates":{"Longitude":"153.4000° E","Latitude":"28.0167° S"}},
+        "Minor2":{"Name":"Cairns","Coordinates":{"Longitude":"145.7710° E","Latitude":"16.9203° S"}}
+    },
+    "SouthAustralia":{
+        "ID":"SA",
+        "Major":{"Name":"Adelaide","Coordinates":{"Longitude":"138.6007° E","Latitude":"34.9285° S"}},
+        "Minor1":{"Name":"Gawler","Coordinates":{"Longitude":"138.7491° E","Latitude":"34.5972° S"}},
+        "Minor2":{"Name":"MountGambier","Coordinates":{"Longitude":"140.7712° E","Latitude":"37.8256° S"}}
+    },
+    "Tasmania":{
+        "ID":"TAS",
+        "Major":{"Name":"Hobart","Coordinates":{"Longitude":"147.3257° E","Latitude":"42.8826° S"}},
+        "Minor1":{"Name":"Launceston","Coordinates":{"Longitude":"147.1358° E","Latitude":"41.4391° S"}},
+        "Minor2":{"Name":"Devonport","Coordinates":{"Longitude":"146.3503° E","Latitude":"41.1801° S"}}
+    },
+    "Victoria":{
+        "ID":"VIC",
+        "Major":{"Name":"Melbourne","Coordinates":{"Longitude":"144.9631° E","Latitude":"37.8136° S"}},
+        "Minor1":{"Name":"Geelong","Coordinates":{"Longitude":"144.3598° E","Latitude":"38.1493° S"}},
+        "Minor2":{"Name":"Bendigo","Coordinates":{"Longitude":"144.2786° E","Latitude":"36.7596° S"}}
+    },
+    "WesternAustralia":{
+        "ID":"WA",
+        "Major":{"Name":"Perth","Coordinates":{"Longitude":"115.8613° E","Latitude":"31.9523° S"}},
+        "Minor1":{"Name":"Bunbury","Coordinates":{"Longitude":"115.6409° E","Latitude":"33.3270° S"}},
+        "Minor2":{"Name":"Geraldton","Coordinates":{"Longitude":"114.6113° E","Latitude":"28.7761° S114.6113° E"}}
+    }
+}
